@@ -1,7 +1,6 @@
 //Program to find the sum of odd numbers from the given array
 
 const numbers=[4,10,67,36,55,13]
-
 let sum=0;
 // for(let i=0;i<numbers.length;i++)
 // {
@@ -11,6 +10,7 @@ let sum=0;
    
 // }
 
+//using key of loop
  for(const num of numbers){
     if(num%2==1){
         sum += num
