@@ -4,5 +4,5 @@ const friendsName=["Kartiki","Tanvii","Nalinee","Varsha","Kaveri"]
 
 for(const name of friendsName)
     {
-      console.log(`Hello ${name}`)
+      console.log(`Hello ${name}`);
   }
